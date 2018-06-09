@@ -7,9 +7,9 @@ It's written in python3 (tested 3.4-3.6), depends on robobrowser and the request
 
 ## Installation:
 First, you need [Python](https://www.python.org) in version 3. After that you need additional modules, installed like this:
-'''
+```
 python3 -m pip install requests robobrowser
-'''
+```
 Clone this repository. The HDownloader.py is good to go!
 
 
