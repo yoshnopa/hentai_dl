@@ -4,6 +4,15 @@
 Modular commandline downloader inspired by youtube-dl. Written to download comics in general with a focus on Hentai Pages. About a dozen pages currently supported!
 It's written in python3 (tested 3.4-3.6), depends on robobrowser and the requests library.
 
+
+## Installation:
+First, you need [Python](https://www.python.org) in version 3. After that you need additional modules, installed like this:
+'''
+python3 -m pip install requests robobrowser
+'''
+Clone this repository. The HDownloader.py is good to go!
+
+
 ## Currently Supported:
 * [8muses.com](https://8muses.com)
 * [bato.to](http://bato.to)
@@ -27,7 +36,10 @@ The download always contains of a folder named by the sites comicname containing
 The downloader can use a http proxy and update an already downloaded folder.
 
 
-###Options:
+### Options:
+The script is triggered by running the HDownloader.py
+For the quick download, just past any amount of urls behind it, they will be downloaded one after another. Further options are available:
+
 ```
 ./HDownloader.py --help
 usage: HDownloader.py [-h] [-f] [-p PROXY] [-o DIRECTORY] [-i LINKFILE]
