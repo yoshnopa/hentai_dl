@@ -31,7 +31,7 @@ Clone this repository. The HDownloader.py is good to go!
 **Open an issue if you want another page to join the list**
 
 The downloader works only with the url of the overview page. This means in general the page that has sometimes thumbnails, but never a fully fledged image. In case of doubt, the shortest url is always right.
-The download always contains of a folder named by the sites comicname containing all images. The images are numbered through, along with the first number being the current chapter (if the page doesnt have chapters, the first number is always 1).
+The download always consists of a folder named by the sites comicname containing all images. The images are numbered through, along with the first number being the current chapter (if the page doesnt have chapters, the first number is always 1).
 
 The downloader can use a http proxy and update an already downloaded folder.
 
