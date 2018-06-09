@@ -38,7 +38,7 @@ The downloader can use a http proxy and update an already downloaded folder.
 
 ### Options:
 The script is triggered by running the HDownloader.py
-For the quick download, just past any amount of urls behind it, they will be downloaded one after another. Further options are available:
+For the quick download, just paste any amount of urls behind it, they will be downloaded one after another. Further options are available:
 
 ```
 ./HDownloader.py --help
