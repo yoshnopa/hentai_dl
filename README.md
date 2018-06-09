@@ -1,7 +1,7 @@
 # hentai_dl
 
 
-Modular commandline downloader inspired by youtube-dl. Written to download comics in general with a focus on Hentai Pages. About a dozen pages currently supported!
+Highly extendable commandline downloader inspired by youtube-dl. Written to download comics in general with a focus on Hentai Pages. About a dozen pages currently supported!
 It's written in python3 (tested 3.4-3.6), depends on robobrowser and the requests library.
 
 
